@@ -1,0 +1,9 @@
+#' Countries of the worlds populations from 1950 to 2020
+#'
+#' @format a data frame with 235 observations of 4 variables
+#' \describe{
+#'   \item{Date}{The date of observation as a POSIX date format.}
+#'   \item{WorldPopulation}{Different Countries populations from 1950 to 2020}
+#' }
+#' @source \url{https://canvas.nau.edu/courses/21825/assignments/455411}
+"WorldPopulation"
